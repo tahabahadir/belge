@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <title>Ödev 2</title>
+</head>
+<body>
+    <!-- Bu ilk başlık -->
+    <h1>Taha Bahadır Yüksel</h1>
+
+    <!-- hakkımda kısmı alt başlık olarak altta yer alıyor -->
+    <h3>Hakkımda</h3>
+
+    <!-- Bu ilk paragraf burada hakkımda bilgileri bulabilirsiniz-->
+<p>
+    Merhaba Ben Taha Bahadır Yüksel Erzurumda yaşıyorum.20 yaşında ünüversite öğrencisiyim teknoloji ve bununla birlikte gelen herşey ilgimi çekiyor ve şimdide kodluyoruz ile beeraber yeni şeyler öğrenmeye denemeye devam ediyorum.kodlamayı öğrenmek ve kendime ait bir web sitesi tasarlamak istiyorum bu bana hem hobi hemde yeni bir deneyim olacak
+</p>
+
+<!-- burada kullandığım diğer alt başlık -->
+<h2>Sevdiğim Diziler</h2>
+
+<!-- dizinin adı burada yazıyor olacak hiyerarşik olsun diye bunuda h4 ile yapıyorum -->
+<h3>How I Met Your Mother</h3>
+
+<!-- dizi hakkında kıısa bir bilgi paragrafı 2 farklı paragraf 2 ayrı etiket  -->
+<p>
+     Dizi, 2030 yılında, Ted Mosby'nin çocuklarına anneleri ile nasıl tanıştığını anlatmasıyla başlar. Bob Saget'in seslendirmesiyle asıl karakteri Ted "Size annenizle nasıl tanıştığımı anlatacağım." der ve dizi 2005 yılına döner. Bays ve Thomas dizideki arkadaşlığı kendi arkadaşlıklarından yola çıkarak yazmışlardır. Buna göre Marshall ve Lily karakterleri ise Thomas ve eşinden esinlenilmiştir.
+
+</p>
+<!-- bu 2. ayrı paragraf etiketim -->
+<p>
+    Dizi oldukça sürükleyici ve sıkılmadan defalarca izleyebilirsiniz sıcak ve samimi ayrıca sitcom dizileri arasında en beğendiğim dizi oldu diyebilirim gönül rahatlığıyla önerebilirim 
+</p>
+
+</body>
+</html>
